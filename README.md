@@ -14,6 +14,13 @@ Below are screenshots demonstrating the API responses and how they appear when a
 *This screenshots shows the JSON response from the API when listing all Kdramas. It includes details like ID, title, release date, and links to posters and trailers.*
 
 
+## Demo
+
+Below is a video demonstrating the functionality of the project:
+
+[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/c3cd42cf-9fe3-4171-9024-59dc0bd77084)
+
+
 ## Technologies Used
 - **Java**: Core programming language
 - **Spring Boot**: Framework for creating stand-alone, production-grade Spring based applications easily
